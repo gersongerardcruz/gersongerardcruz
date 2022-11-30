@@ -21,7 +21,7 @@
     <a href="https://github.com/gersongerardcruz/julia_root_finding" target="_blank" rel="noreferrer"> <img src="/../assets/images/root_finding.png?raw=true" width="400" /> </a>
     <a href="https://github.com/gersongerardcruz/ode_modelling_dynamics_of_love" target="_blank" rel="noreferrer"> <img src="/../assets/images/odes.png?raw=true" width="400" /> </a>
     <a href="https://github.com/gersongerardcruz/regression_analysis_on_house_pricing" target="_blank" rel="noreferrer"> <img src="/../assets/images/regression.png?raw=true" width="400" /> </a>
-    <a href="https://github.com/gersongerardcruz/ode_modelling_dynamics_of_love" target="_blank" rel="noreferrer"> <img src="/../assets/images/sentiment_analysis.png?raw=true" width="400" /> </a>
+    <a href="https://github.com/gersongerardcruz/sentiment_analysis_on_game_reviews" target="_blank" rel="noreferrer"> <img src="/../assets/images/sentiment_analysis.png?raw=true" width="400" /> </a>
     
 </p>
 
