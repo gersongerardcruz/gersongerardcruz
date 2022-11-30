@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **ggerardcruz@gmail.com**
 
-- 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gersongerardcruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gersongerardcruz" height="30" width="40" /></a>
@@ -41,15 +39,15 @@
 
 <h3 align="left">Selected Projects</h3>
 <p float="left">
-    <a href="https://github.com/gersongerardcruz/extractive_and_abstractive_text_summarization" target="_blank" rel="noreferrer"> <img src="/../assets/images/summarization_banner.png?raw=true" width="500" /> </a>
-    <a href="https://github.com/gersongerardcruz/julia_root_finding" target="_blank" rel="noreferrer"> <img src="/../assets/images/root_finding.png?raw=true" width="500" /> </a>
-    <a href="https://github.com/gersongerardcruz/ode_modelling_dynamics_of_love" target="_blank" rel="noreferrer"> <img src="/../assets/images/odes.png?raw=true" width="500" /> </a>
-    <a href="https://github.com/gersongerardcruz/regression_analysis_on_house_pricing" target="_blank" rel="noreferrer"> <img src="/../assets/images/regression.png?raw=true" width="500" /> </a>
-    <a href="https://github.com/gersongerardcruz/ode_modelling_dynamics_of_love" target="_blank" rel="noreferrer"> <img src="/../assets/images/sentiment_analysis.png?raw=true" width="500" /> </a>
+    <a href="https://github.com/gersongerardcruz/extractive_and_abstractive_text_summarization" target="_blank" rel="noreferrer"> <img src="/../assets/images/summarization_banner.png?raw=true" width="450" /> </a>
+    <a href="https://github.com/gersongerardcruz/julia_root_finding" target="_blank" rel="noreferrer"> <img src="/../assets/images/root_finding.png?raw=true" width="450" /> </a>
+    <a href="https://github.com/gersongerardcruz/ode_modelling_dynamics_of_love" target="_blank" rel="noreferrer"> <img src="/../assets/images/odes.png?raw=true" width="450" /> </a>
+    <a href="https://github.com/gersongerardcruz/regression_analysis_on_house_pricing" target="_blank" rel="noreferrer"> <img src="/../assets/images/regression.png?raw=true" width="450" /> </a>
+    <a href="https://github.com/gersongerardcruz/ode_modelling_dynamics_of_love" target="_blank" rel="noreferrer"> <img src="/../assets/images/sentiment_analysis.png?raw=true" width="450" /> </a>
     
 </p>
 
 <h3 align="left">Publications</h3>
 <p float="left">
-    <a href="https://ieeexplore.ieee.org/abstract/document/9910992" target="_blank" rel="noreferrer"> <img src="/../assets/images/object_detection.png?raw=true" width="500" /> </a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/9910992" target="_blank" rel="noreferrer"> <img src="/../assets/images/object_detection.png?raw=true" width="450" /> </a>
 </p>
