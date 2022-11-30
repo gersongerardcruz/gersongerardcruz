@@ -28,5 +28,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="conda" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/> 
 <img src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/ggplot2.svg" alt="ggplot" width="40" height="40"/> 
+<img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" width="40" height="40"/> 
+<img src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" alt="scipy" width="40" height="40"/> 
+<img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_scilab.svg" alt="scilab" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="40" height="40"/> 
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </a> </p>
 
