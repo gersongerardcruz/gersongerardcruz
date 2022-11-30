@@ -1,4 +1,4 @@
-![Banner](/../assets/readme_banner.png?raw=true "Banner")
+![Banner](/../assets/images/readme_banner.png?raw=true "Banner")
 <h1 align="center">Hi 👋🏼, I'm Gerson Cruz</h1>
 <h3 align="center">I'm a self-driven and proactive university student with two years of experience in Data Analytics and Machine Learning</h3>
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e471kv2tcjn2pefhpq1g8tt96y35uel4wjltqvyqpok&rid=giphy.gif&ct=g">
@@ -8,6 +8,8 @@
 - 💬 Ask me about **Data, Machine Learning, Deep Learning, Analytics**
 
 - 📫 How to reach me **ggerardcruz@gmail.com**
+
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,3 +38,18 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </a> </p>
 
+
+<h3 align="left">Selected Projects</h3>
+<p float="left">
+    <a href="https://github.com/gersongerardcruz/extractive_and_abstractive_text_summarization" target="_blank" rel="noreferrer"> <img src="/../assets/images/summarization_banner.png?raw=true" width="333" /> </a>
+    <a href="https://github.com/gersongerardcruz/julia_root_finding" target="_blank" rel="noreferrer"> <img src="/../assets/images/root_finding.png?raw=true" width="333" /> </a>
+    <a href="https://github.com/gersongerardcruz/ode_modelling_dynamics_of_love" target="_blank" rel="noreferrer"> <img src="/../assets/images/odes.png?raw=true" width="333" /> </a>
+    <a href="https://github.com/gersongerardcruz/regression_analysis_on_house_pricing" target="_blank" rel="noreferrer"> <img src="/../assets/images/regression.png?raw=true" width="333" /> </a>
+    <a href="https://github.com/gersongerardcruz/ode_modelling_dynamics_of_love" target="_blank" rel="noreferrer"> <img src="/../assets/images/sentiment_analysis.png?raw=true" width="333" /> </a>
+    
+</p>
+
+<h3 align="left">Publications</h3>
+<p float="left">
+    <a href="https://ieeexplore.ieee.org/abstract/document/9910992" target="_blank" rel="noreferrer"> <img src="/../assets/images/object_detection.png?raw=true" width="333" /> </a>
+</p>
