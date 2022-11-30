@@ -1,4 +1,4 @@
-![Banner](/../assets/images/readme_banner.png?raw=true "Banner")
+![Banner](/../assets/images/banner_6.png?raw=true "Banner")
 <h1 align="center">Hi 👋🏼, I'm Gerson Cruz</h1>
 <h2 align="center">I'm a self-driven and proactive university student with two years of experience in Data Analytics and Machine Learning. I'm aiming to become a professional analyst, engineer, or researcher in the fields of Data and AI. I see the tremendous value these fields offer and intend to become a part of it. </h2>
 
