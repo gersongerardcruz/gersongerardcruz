@@ -1,7 +1,8 @@
 ![Banner](/../assets/images/readme_banner.png?raw=true "Banner")
 <h1 align="center">Hi 👋🏼, I'm Gerson Cruz</h1>
-<h2 align="center">I'm a self-driven and proactive university student with two years of experience in Data Analytics and Machine Learning</h3>
-<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e471kv2tcjn2pefhpq1g8tt96y35uel4wjltqvyqpok&rid=giphy.gif&ct=g">
+<h2 align="center">I'm a self-driven and proactive university student with two years of experience in Data Analytics and Machine Learning. I'm aiming to become a professional analyst, engineer, or researcher in the fields of Data and AI. I see the tremendous value these fields offer and intend to become a part of it. </h2>
+
+<img align="right" alt="Coding" width="250" src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e471kv2tcjn2pefhpq1g8tt96y35uel4wjltqvyqpok&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **Internet of Things with ESP32**
 
