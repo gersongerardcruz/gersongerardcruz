@@ -1,3 +1,4 @@
+![Banner](/../assets/readme_banner.png?raw=true "Banner")
 <h1 align="center">Hi 👋🏼, I'm Gerson Cruz</h1>
 <h3 align="center">I'm a self-driven and proactive university student with two years of experience in Data Analytics and Machine Learning</h3>
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e471kv2tcjn2pefhpq1g8tt96y35uel4wjltqvyqpok&rid=giphy.gif&ct=g">
