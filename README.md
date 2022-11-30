@@ -1,4 +1,6 @@
-![Banner](/../assets/images/banner_6.png?raw=true "Banner")
+<p float="left" align="center">
+    <a href="https://www.freepik.com/free-vector/programmer-working-isometric-style_4911001.htm#page=2&query=machine%20learning&position=5&from_view=search&track=sph" target="_blank" rel="noreferrer"> <img src="/../assets/images/banner_6.png?raw=true" width="1000" alt="Image by pikisuperstar"/> </a>
+</p>
 <h1 align="center">Hi 👋🏼, I'm Gerson Cruz</h1>
 <h2 align="center">I'm a self-driven and proactive university student with two years of experience in Data Analytics and Machine Learning. I'm aiming to become a professional analyst, engineer, or researcher in the fields of Data and AI. I see the tremendous value these fields offer and intend to become a part of it. </h2>
 
