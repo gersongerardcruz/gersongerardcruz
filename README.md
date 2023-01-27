@@ -36,8 +36,8 @@
 <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/julialang/julialang-ar21.svg" alt="julia" width="40" height="40"/>
 <img src="https://github.com/file-icons/icons/blob/master/svg/LaTeX.svg" alt="latex" width="40" height="40"/>
-<img src="https://github.com/gilbarbara/logos/blob/master/logos/matplotlib-icon.svg" alt="matplotlib" width="40" height="40"/>
-<img src="https://github.com/gilbarbara/logos/blob/master/logos/google-data-studio.svg" alt="google data studio" width="40" height="40"/> 
+<img src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" alt="matplotlib" width="40" height="40"/>
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/google-data-studio.svg" alt="google data studio" width="40" height="40"/> 
 <img src="https://github.com/detain/svg-logos/blob/master/svg/google-suite-logo.svg" alt="g suite" width="40" height="40"/> 
 <img src="https://github.com/detain/svg-logos/blob/master/svg/tinkercad-1.svg" alt="tinkercad" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> 
