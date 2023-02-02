@@ -22,7 +22,7 @@
     <a href="https://github.com/gersongerardcruz/ode_modelling_dynamics_of_love" target="_blank" rel="noreferrer"> <img src="/../assets/images/odes.png?raw=true" width="400" /> </a>
     <a href="https://github.com/gersongerardcruz/regression_analysis_on_house_pricing" target="_blank" rel="noreferrer"> <img src="/../assets/images/regression.png?raw=true" width="400" /> </a>
     <a href="https://github.com/gersongerardcruz/sentiment_analysis_on_game_reviews" target="_blank" rel="noreferrer"> <img src="/../assets/images/sentiment_analysis.png?raw=true" width="400" /> </a>
-    <a href="https://github.com/gersongerardcruz/greenhouse_gases_emissions_dashboard" target="_blank" rel="noreferrer"> <img src="/../assets/images/dashboard_visualization.png?raw=true" width="400" /> </a>
+    <a href="https://github.com/gersongerardcruz/greenhouse_gases_emissions_dashboard" target="_blank" rel="noreferrer"> <img src="/../assets/images/dashboard_visualization.jpeg?raw=true" width="400" /> </a>
 </p>
 
 <h2 align="left">Publications</h3>
