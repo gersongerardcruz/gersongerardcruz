@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋🏼, I'm Gerson Cruz</h1>
 <h2 align="center">I'm a self-driven and proactive Electronics Engineering graduate with two years of experience in Data Analytics and AI. I'm aiming to become a professional analyst, engineer, or researcher in the fields of Data, IoT, Cloud Computing, and AI. I see the tremendous value these fields offer and I intend to become a part of it. </h2>
 
-- 🌱 I’m currently doing projects on **Data Applications served on Streamlit**
+- 🌱 I’m currently doing projects on **AutoML, Mlflow, FastAPI, and Streamlit**
 
 - 💬 Ask me about **Data, Machine Learning, Deep Learning, Analytics, and IoT**
 
