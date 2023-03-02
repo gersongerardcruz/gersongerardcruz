@@ -2,7 +2,7 @@
     <a href="https://www.freepik.com/free-vector/programmer-working-isometric-style_4911001.htm#page=2&query=machine%20learning&position=5&from_view=search&track=sph" target="_blank" rel="noreferrer"> <img src="/../assets/images/banner_6.png?raw=true" width="1000" alt="Image by pikisuperstar"/> </a>
 </p>
 <h1 align="center">Hi 👋🏼, I'm Gerson Cruz</h1>
-<h2 align="center">I'm a self-driven and proactive Electronics Engineering graduate with two years of experience in Data Analytics and AI. I'm aiming to become a professional analyst, engineer, or researcher in the fields of Data, IoT, Cloud Computing, and AI. I see the tremendous value these fields offer and I intend to become a part of it. </h2>
+<h2 align="center">I'm a self-driven and proactive Electronics Engineering graduate with two years of experience in AI and Data Analytics. I'm aiming to become a professional analyst, engineer, or researcher in the fields of AI, Data, Cloud Computing, and IoT. I see the tremendous value these fields offer and I intend to become a part of it. </h2>
 
 - 🌱 I’m currently doing projects on **AutoML, Mlflow, FastAPI, and Streamlit**
 
