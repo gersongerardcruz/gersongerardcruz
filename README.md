@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋🏼, I'm Gerson Cruz</h1>
 <h2 align="center">I'm a self-driven and proactive Electronics Engineering graduate with two years of experience in AI and Data Analytics. I'm aiming to become a professional analyst, engineer, or researcher in the fields of AI, Data, Cloud Computing, and IoT. I see the tremendous value these fields offer and I intend to become a part of it. </h2>
 
-- 🌱 I’m currently doing projects on **AutoML, Mlflow, FastAPI, and Streamlit**
+- 🌱 I’m currently doing projects on **End-to-End ML using AWS Cloud Services**
 
-- 💬 Ask me about **Data, Machine Learning, Deep Learning, Analytics, and IoT**
+- 💬 Ask me about **AI, Data Analytics, and IoT**
 
 - 📫 Reach me via **ggerardcruz@gmail.com** 
 
@@ -57,4 +57,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="40" height="40"/> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-</a> </p>
+</a> 
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/streamlit.svg" alt="streamlit" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" width="40" height="40">
+<img src="https://github.com/simple-icons/simple-icons/blob/master/icons/mlflow.svg" alt="mlflow" width="40" height="40">
+</p>
