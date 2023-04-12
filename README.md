@@ -17,6 +17,7 @@
 
 <h2 align="left">Selected Projects</h3>
 <p float="left" align="center">
+    <a href="https://github.com/gersongerardcruz/temperature_forecasting_airflow_automation" target="_blank" rel="noreferrer"> <img src="/../assets/images/temperature_forecasting.jpg?raw=true" width="400" /> </a>
     <a href="https://github.com/gersongerardcruz/network_intrusion_detection" target="_blank" rel="noreferrer"> <img src="/../assets/images/network_intrusion.jpg?raw=true" width="400" /> </a>
     <a href="https://github.com/gersongerardcruz/animal_face_classification" target="_blank" rel="noreferrer"> <img src="/../assets/images/animal_classification.jpg?raw=true" width="400" /> </a>    
     <a href="https://github.com/gersongerardcruz/customer_segmentation" target="_blank" rel="noreferrer"> <img src="/../assets/images/segmentation.jpg?raw=true" width="400" /> </a>    
