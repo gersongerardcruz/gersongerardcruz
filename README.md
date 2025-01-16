@@ -2,9 +2,9 @@
     <a href="https://www.freepik.com/free-vector/programmer-working-isometric-style_4911001.htm#page=2&query=machine%20learning&position=5&from_view=search&track=sph" target="_blank" rel="noreferrer"> <img src="/../assets/images/banner_6.png?raw=true" width="1000" alt="Image by pikisuperstar"/> </a>
 </p>
 <h1 align="center">Hi 👋🏼, I'm Gerson Cruz</h1>
-<h2 align="center">I'm a Data Analyst, Machine Learning Engineer, and a Certified Cloud Solutions Architect currently pursuing my MSc with specializations in Computer Science, Sustainable Computing, and Complex Systems Engineering. I'm a proud Erasmus Mundus scholar under the Green Networking and Cloud Computing program, learning and thriving with people across 17 nationalities. 🌎 <br>
+<h2 align="center">I'm a Data Analyst, Machine Learning Engineer, and a Certified Cloud Solutions Architect currently pursuing my MSc with specializations in Computer Science, Sustainable Computing, and Complex Systems Engineering. I'm a proud Erasmus Mundus scholar under the Green Networking and Cloud Computing program, learning and thriving with people across 17 nationalities. 🌎 </h2>
 
-I'm craving for purpose, a way to make every line of code, every solution I build, and every thing I put my effort into contribute to something bigger. To achieve this, I'm looking for roles as Cloud Engineer, Solutions Architect, Machine Learning Engineer, or Data Analyst/Scientist. 🧑‍💻  </h2>
+<h3 align="center"> I'm craving for purpose, a way to make every line of code, every solution I build, and every thing I put my effort into contribute to something bigger. To achieve this, I'm looking for roles as Cloud Engineer, Solutions Architect, Machine Learning Engineer, or Data Analyst/Scientist. 🧑‍💻 </h3>
 
 - 💬 Ask me about **AI, Data Analytics, and Cloud Engineering**
 
