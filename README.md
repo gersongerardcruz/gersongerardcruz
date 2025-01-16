@@ -2,13 +2,17 @@
     <a href="https://www.freepik.com/free-vector/programmer-working-isometric-style_4911001.htm#page=2&query=machine%20learning&position=5&from_view=search&track=sph" target="_blank" rel="noreferrer"> <img src="/../assets/images/banner_6.png?raw=true" width="1000" alt="Image by pikisuperstar"/> </a>
 </p>
 <h1 align="center">Hi 👋🏼, I'm Gerson Cruz</h1>
-<h2 align="center">I'm a self-driven and proactive Electronics Engineering graduate with two years of experience in AI and Data Analytics. I'm aiming to become a professional analyst, engineer, or researcher in the fields of AI, Data, Cloud Computing, and IoT. I see the tremendous value these fields offer and I intend to become a part of it. </h2>
+<h2 align="center">I'm a Data Analyst, Machine Learning Engineer, and a Certified Cloud Solutions Architect currently pursuing my MSc with specializations in Computer Science, Sustainable Computing, and Complex Systems Engineering. I'm a proud Erasmus Mundus scholar under the Green Networking and Cloud Computing program, learning and thriving with people across 17 nationalities. 🌎
 
-- 🌱 I’m currently doing projects on **End-to-End ML using AWS Cloud Services**
+<br>
 
-- 💬 Ask me about **AI, Data Analytics, and IoT**
+I'm craving for purpose, a way to make every line of code, every solution I build, and every thing I put my effort into contribute to something bigger. To achieve this, I'm looking for roles as Cloud Engineer, Solutions Architect, Machine Learning Engineer, or Data Analyst/Scientist. 🧑‍💻  </h2>
 
-- 📫 Reach me via **ggerardcruz@gmail.com** 
+- 💬 Ask me about **AI, Data Analytics, and Cloud Engineering**
+
+- 🤔 I'm working on projects using **AWS Cloud Services** and learning new languages on the side
+
+- 📫 Reach me via **ggerardcruz@gmail.com** especially about projects you'll find in my LinkedIn and CV. I have to finish my masters because I can officially publish them in Github but I'm more than willing to talk about them if you are interested. 💡
 
 <h2 align="left">Education and Experience</h3>
 <p float="left" align="center">
