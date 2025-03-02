@@ -10,7 +10,7 @@
 
 - 🤔 I'm working on projects using **AWS Cloud Services** and learning new languages on the side
 
-- 📫 Reach me via **ggerardcruz@gmail.com** especially about projects you'll find in my LinkedIn and CV. I have to finish my masters because I can officially publish them in Github but I'm more than willing to talk about them if you are interested. 💡
+- 📫 Reach me via **ggerardcruz@gmail.com** especially about projects you'll find in my LinkedIn and CV. I have to finish my masters before I can officially publish them in Github but I'm more than willing to talk about them if you are interested. 💡
 
 <h2 align="left">Education and Experience</h3>
 <p float="left" align="center">
